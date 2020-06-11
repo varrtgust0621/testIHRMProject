@@ -1,0 +1,29 @@
+{
+  "add_emp": {
+    "username": "葫芦呼噜11",
+    "mobile": "13425478889",
+    "success": true,
+    "code": 10000,
+    "message": "操作成功",
+    "http_code": 200
+  },
+  "query_emp": {
+    "success": true,
+    "code": 10000,
+    "message": "操作成功",
+    "http_code": 200
+  },
+  "modify_emp": {
+    "username": "葫芦呼噜",
+    "success": true,
+    "code": 10000,
+    "message": "操作成功",
+    "http_code": 200
+  },
+  "delete_emp": {
+    "success": true,
+    "code": 10000,
+    "message": "操作成功",
+    "http_code": 200
+  }
+}
